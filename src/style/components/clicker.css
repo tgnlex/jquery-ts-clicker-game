@@ -1,0 +1,18 @@
+
+
+#clicker {
+  --diameter: var(--clicker-diameter);
+  --mt: 5vh;
+  margin-top: var(--mt);
+  height: var(--diameter);
+  width: var(--diameter);
+}
+
+#clicker:hover {
+  border-width: 0.3em;
+}
+
+#clicker-upgrade {
+  background: silver;
+  margin-top: 10vh;
+}

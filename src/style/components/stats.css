@@ -1,0 +1,10 @@
+.stats {
+  display: flex;
+  flex-direction: row;
+  gap: 1.5em;
+}
+
+.stats--wrapper {
+  text-align: center;
+}
+
